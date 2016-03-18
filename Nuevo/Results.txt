@@ -1,0 +1,13 @@
+Haralick
+
+Energy 335.36
+Entropy 340.842
+Correlation 340.396
+Inertia 339.663
+
+Run Length
+
+SRE 283.519
+LRE 270.832
+GLN 273.311
+RLN 269.273
