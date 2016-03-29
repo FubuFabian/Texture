@@ -1,3 +1,11 @@
+Histogram
+
+Dif 2.271
+Entropy 9.406
+Kurtosis 8.9421
+Skewness 8.978
+Mean 2.36
+
 Haralick
 
 Energy 335.36
